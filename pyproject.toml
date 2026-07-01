@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "crashbytes-ai-client"
-version = "1.0.0"
+version = "1.0.1"
 description = "Zero-dependency unified LLM client — call OpenAI, Anthropic, and Ollama with one interface."
 license = "MIT"
 requires-python = ">=3.10"
